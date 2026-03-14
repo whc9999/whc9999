@@ -1,8 +1,3 @@
-# 안녕하세요! 어제보다 나은 오늘. 언제나 성장을 위해 나아가는 백엔드 개발자 최우혁입니다.
-
-> "일단 부딪혀보고, 끝까지 파고들어 문제를 해결합니다."
-
-
 ### 🛠️ Tech Stack
 
 **Backend** <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
