@@ -74,11 +74,6 @@
   - 크로스 도메인 환경의 `CORS` 및 세션 로그인 문제 해결.
   - `Swagger` 및 `@JsonAlias`를 활용한 협업 효율 개선.
 
-- **[Cenchi(센치)](https://github.com/2025-sinchonthon-4/backend.git)** : 게이미피케이션 기반 퀴즈 학습 플랫폼 (2025.09)
-  - `Java Stream API`를 활용한 DTO 매핑 최적화.
-  - `@Transactional` 기반 유저 성장 데이터 무결성 보장.
-  - 맞춤형 마이페이지 API 개발.
-
 ---
 
 ### 🔗 Contact & Channel
