@@ -43,6 +43,16 @@
 <img src="https://img.shields.io/badge/Loki-F2C037?style=flat-square&logo=grafana&logoColor=black"/>
 
 ---
+### Profile
+
+- 홍익대학교 컴퓨터공학과 (2023.03 ~ )
+- 홍익대학교 컴퓨터공학과 학술학회 P.C.R.C. - 36기 (2024.09 ~ 2024.12)
+- 홍익대학교 멋쟁이사자처럼 - 13기 BE (2025.03 ~ 2025.12)
+- 홍익대학교 멋쟁이사자처럼 - 14기 BE 운영진 (2025.01 ~ )
+- 신촌 연합 IT 창업동아리 CEOS - 23기 BE (2026.03 ~ 2026.08)
+- 신촌 연합 IT 창업동아리 CEOS - 24기 BE 파트장 운영진 (2026.08 ~ )
+
+---
 
 ### 🚀 Featured Projects & Experience
 
@@ -50,6 +60,7 @@
   - `RabbitMQ` 기반 비동기 AI 분석 파이프라인을 구축하여 API 서버와 AI Worker를 분리하고, 분석 상태 관리 및 재시도 가능한 구조를 설계.
   - `Structured Output` 이후에도 서버 검증 계층을 추가하여 원문 문장 검증, 상태값 검증, 문장 위치 계산, 중복 제거 등 AI 응답의 신뢰성을 강화.
   - `Few-shot Prompting`과 평가 전용 Runner를 도입하여 프롬프트 품질을 반복적으로 검증하고 AI 분석 결과의 일관성을 개선.
+  - `Cohere Embedding`을 활용한 유사 Few-shot 검색 구조를 설계하고, `Few-shot Prompting` 및 평가 전용 Runner를 도입하여 프롬프트 품질과 AI 분석 결과의 일관성을 개선.
 
 - **[땅!땅!땅!](https://github.com/ddang-ddang-ddang/hongikLaw_BE.git)** : AI 연동 및 계층형 토론 기반 온라인 재판 플랫폼 (2025.09 ~ 2025.12)
   - `Spring AOP` 내부 호출(Self-Invocation) 문제를 분석하고 비동기 처리 구조를 개선하여 API 응답 시간 **5.22초 ➡️ 0.11초**로 단축.
